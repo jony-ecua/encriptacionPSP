@@ -10,7 +10,7 @@ import java.security.NoSuchAlgorithmException;
 
 /**
  *
- * @author HERMANOS
+ * @author HERMANOS e
  */
 public class Seguridad {
   /**
