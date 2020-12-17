@@ -7,7 +7,7 @@ package encriptacion;
 
 /**
  *
- * @author HERMANOS
+ * @author HERMANOS e
  */
 public class aplication {
 
